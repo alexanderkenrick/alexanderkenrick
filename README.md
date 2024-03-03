@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Saya adalah mahasiswa semester 6 di Universitas Surabaya<br>Saya tertarik dengan mengembangkan website. Saya aktif dalam kepanitiaan di bidang IT (sebagai Web Developer) di banyak kegiatan di kampus saya.<br>Saya juga memiliki minat di bidang hardware dan framework dan akan terus belajar lebih banyak lagi dalam mengembangkan suatu web.</p>
+<p align="left">Saya adalah mahasiswa semester 6 di Universitas Surabaya<br>Saya tertarik dengan mengembangkan website. Saya aktif dalam kepanitiaan di bidang IT (sebagai Web Developer) di banyak kegiatan di kampus saya.<br>Saya juga memiliki minat di bidang hardware dan framework dan akan terus belajar lebih banyak lagi dalam mengembangkan suatu web dan aplikasi.</p>
 
 ###
 
